@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
@@ -21,12 +22,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
