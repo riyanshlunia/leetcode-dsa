@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/riyanshlunia/leetcode-dsa/tree/main/0881-boats-to-save-people/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
